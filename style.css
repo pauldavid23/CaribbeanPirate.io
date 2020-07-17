@@ -1,0 +1,10 @@
+* {
+	margin: auto;
+	padding: auto;
+	box-sizing: border-box;
+}
+
+body {
+	background: url(http://www.kidsadventureseries.net/images/bg-map.jpg);
+	background-repeat: no-repeat;
+}
