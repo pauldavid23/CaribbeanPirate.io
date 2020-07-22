@@ -13,13 +13,32 @@ body {
 .main-image {
 	float: right;
 	border: 1px solid black;
+	margin-right: 30%;
 }
 
 .biography {
+	padding-top: 30px;
 	float: left;
 	border: 1px solid black;
 	background-color: #CECFCF;
-	width: 50%;
-	height: 50%;
+	width: 750px;
+	height: 750px;
+	text-align: justify;
+	line-height: 1.6;
 
+}
+
+.information {
+	background-color: #CECFCF;
+}
+
+.name {
+	background-color: #15BAED;
+	font-weight: bold; 
+	text-align: center;
+}
+
+.second-name {
+	background-color: #16E4F3;
+	text-align: left;
 }
