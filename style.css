@@ -10,10 +10,21 @@ body {
 	background-repeat: no-repeat;
 }
 
+.container {
+	margin: 0 auto 0 auto;
+}
+
+.head {
+	background-color: #721410;
+	color: white;
+	font-size: 2em;
+	padding-top: 5px;
+}
+
 .main-image {
 	float: right;
 	border: 1px solid black;
-	margin-right: 30%;
+	margin-right: 20%;
 }
 
 .biography {
@@ -25,7 +36,9 @@ body {
 	height: 750px;
 	text-align: justify;
 	line-height: 1.6;
-
+	padding-right: 3%;
+	padding-left: 3%;
+	margin-left: 10%;
 }
 
 .information {
@@ -41,4 +54,8 @@ body {
 .second-name {
 	background-color: #16E4F3;
 	text-align: left;
+}
+
+.opening-quote {
+	font-style: italic;
 }
